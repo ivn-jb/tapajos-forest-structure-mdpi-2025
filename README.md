@@ -19,8 +19,8 @@ While existing studies in the Tapajós National Forest primarily emphasize carbo
 This repository contains the analysis notebook and conference poster presented at the 6th International Electronic Conference on Applied Sciences (ASEC 2025):
 
 ```text
-├── *.ipynb                 # Jupyter Notebook containing data preprocessing, correlation analysis, plot clustering, and crown-volume modeling
-├── *poster*.pdf            # Official ASEC 2025 conference poster (Introduction & Aim, Results & Discussion, Future Work & References)
+├── [CMEPHY1]_EDA_Tapajos_rainforest_data_NonImputed.ipynb           # Jupyter Notebook containing data preprocessing, correlation analysis, plot clustering, and crown-volume modeling
+├── asec_poster.pdf            # Official ASEC 2025 conference poster (Introduction & Aim, Results & Discussion, Future Work & References)
 └── README.md               # Project documentation
 ```
 
