@@ -29,7 +29,7 @@ This repository contains the analysis notebook and conference poster presented a
 This research was presented at **The 6th International Electronic Conference on Applied Sciences (ASEC 2025)**, hosted by MDPI:
 
 * **Conference Event:** [sciforum.net/event/ASEC2025](https://sciforum.net/event/ASEC2025)
-* **Link to Study** [https://sciforum.net/paper/27699](https://sciforum.net/paper/27699)
+* **Link to Study:** [https://sciforum.net/paper/27699](https://sciforum.net/paper/27699)
 
 If you reference this work, notebook, or poster, please cite:
 
