@@ -24,17 +24,6 @@ This repository contains the analysis notebook and conference poster presented a
 └── README.md               # Project documentation
 ```
 
-## Getting Started
-
-To run the analysis notebook locally, clone the repository and install the core Python scientific computing libraries:
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-pip install numpy pandas scipy scikit-learn matplotlib seaborn jupyter
-jupyter notebook
-```
-
 ## Publication & Citation
 
 This research was presented at **The 6th International Electronic Conference on Applied Sciences (ASEC 2025)**, hosted by MDPI:
@@ -50,7 +39,7 @@ If you reference this work, notebook, or poster, please cite:
   booktitle = {The 6th International Electronic Conference on Applied Sciences (ASEC 2025)},
   year      = {2025},
   publisher = {MDPI},
-  url       = {https://sciforum.net/event/ASEC2025}
+  url       = {https://sciforum.net/paper/27699}
 }
 ```
 
