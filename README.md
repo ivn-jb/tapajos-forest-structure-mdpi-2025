@@ -1,5 +1,12 @@
 # Data-Driven Analysis of Tree Structure Variation Across Forest Types in Tapajós National Forest, Brazil
 
+[![Published](https://img.shields.io/badge/Published-MDPI%20%7C%20ASEC%202025-blue)](https://sciforum.net/paper/27699)
+[![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
+
+> **Published Research:** Presented at *The 6th International Electronic Conference on Applied Sciences (ASEC 2025)* and published in **MDPI Proceedings** (Dec. 2025).  
+> **Read the full paper:** [sciforum.net/paper/27699](https://sciforum.net/paper/27699)
+
 Data-driven analysis of tree structural variations across primary, selectively logged, and secondary forests in Brazil's Tapajós National Forest. Uses Python and ellipsoidal geometric modeling to estimate tree-crown volume as a canopy proxy, supporting tropical forest monitoring and conservation management.
 
 ## Overview
